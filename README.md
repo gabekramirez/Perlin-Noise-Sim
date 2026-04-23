@@ -1,7 +1,9 @@
 # Perlin Noise Sim
 
+This is a simple Perlin Noise Simulator made using Python and Pygame. Explore the perlin noise using WASD or arrow keys.
+
 Source code is main.py
 
-Built using pygbag
+Built to Wasm using pygbag
 
-Try out at https://gabekramirez.github.io/Perlin-Noise-Sim/
+Try it out at https://gabekramirez.github.io/Perlin-Noise-Sim/
