@@ -4,7 +4,6 @@ import asyncio
 from math import floor, ceil, cos, sin, radians, log2
 from random import randint
 
-from pygame import K_RIGHT, K_LEFT
 
 RANDOM_SEED = randint(0, 18446744073709551615)
 INITIAL_WINDOW_WIDTH = 640
